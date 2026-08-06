@@ -1,0 +1,5 @@
+[submodule "modules/not_ros_packages/Gazebo-Vacuum-Gripper-Plugin"]
+	path = modules/not_ros_packages/Gazebo-Vacuum-Gripper-Plugin
+	url = https://github.com/drfenixion/Gazebo-Vacuum-Gripper-Plugin
+	branch = main
+

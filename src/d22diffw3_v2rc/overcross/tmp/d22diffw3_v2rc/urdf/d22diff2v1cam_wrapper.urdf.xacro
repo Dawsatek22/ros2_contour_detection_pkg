@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="d22diff2v1cam">
-    <xacro:include filename="d22diff2v1cam.urdf"/>
-    <xacro:include filename="d22diff2v1cam_sensors.urdf.xacro"/>
-</robot>

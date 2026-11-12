@@ -1,9 +1,0 @@
-.git
-.cache
-docker
-!docker/**/entrypoint*.bash
-.gitmodules_init
-/NVIDIA-DRIVER.run
-NVIDIA-*
-.vscode
-modules_replacements
